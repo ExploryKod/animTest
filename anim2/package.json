@@ -1,0 +1,14 @@
+{
+  "name": "anim2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "amaury",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.4"
+  }
+}
